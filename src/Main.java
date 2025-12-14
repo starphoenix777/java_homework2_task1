@@ -7,7 +7,7 @@ public class Main {
         // Вычисления
         int quantityMiles = ticketCost / mileCost; // количество миль за покупку билета
 
-       // Вывод результатов
+        // Вывод результатов
         System.out.print("За покупку билета на сумму " + (ticketCost) + " руб.");
         System.out.print(" начислено " + (quantityMiles) + " миль");
 
